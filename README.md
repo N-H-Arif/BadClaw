@@ -1,6 +1,6 @@
 # BadClaw
 
-This repository contains NeurIPS submission code for BadClaw: Benchmarking Dimensional Trigger Attacks in Self-hosted Agentic Systems. It studies cases where trigger evidence is distributed across time, system locations, and persistent context, then combines during routing, planning, or tool execution.
+This repository contains NeurIPS submission code for BadClaw: Benchmarking Dimensional Trigger Attacks in Self-Hosted Agentic Systems. It studies cases where trigger evidence is distributed across time, system locations, and persistent context, then combines during routing, planning, or tool execution.
 
 
 Tasks are generated from curated OpenClaw skill records, used as Skillcard, descriptions of benign tool behavior and task context. The setting additionally uses AgentCard execution metadata to model modular routing and component-mediated tool use.
